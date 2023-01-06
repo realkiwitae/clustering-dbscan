@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+DBSCAN_js/
+build/
